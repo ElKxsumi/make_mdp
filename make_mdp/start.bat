@@ -1,3 +1,0 @@
-node makemdp
-
-pause
